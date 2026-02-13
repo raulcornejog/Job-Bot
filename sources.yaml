@@ -1,0 +1,12 @@
+sources:
+  - name: hellofresh
+    company: HelloFresh
+    url: "https://careers.hellofresh.com/global/en/search-results?from=0&s=1"
+
+  - name: uber
+    company: Uber
+    url: "https://www.uber.com/careers/list/?location=NLD--Amsterdam"
+
+  - name: booking
+    company: Booking.com
+    url: "https://jobs.booking.com/booking/jobs?location=Amsterdam,%20Netherlands&woe=7&regionCode=NL&stretchUnit=MILES&stretch=25"
