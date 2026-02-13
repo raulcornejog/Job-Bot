@@ -1,0 +1,5 @@
+pyyaml
+python-dateutil
+gspread
+google-auth
+playwright
